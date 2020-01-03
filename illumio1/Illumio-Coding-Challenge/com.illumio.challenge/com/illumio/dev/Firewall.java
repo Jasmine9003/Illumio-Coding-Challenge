@@ -35,7 +35,7 @@ public class Firewall {
 		System.out.println(filename);
 		String filepath1="/Users/jasmi/Documents/illumio/illumio1/Illumio-Coding-Challenge/com.illumio.challenge/com/illumio/dev/networkrules.csv";
 //		BufferedReader br = new BufferedReader(new FileReader(filename1));
-//		System.out.println(br);
+
 				
 		try(BufferedReader br = new BufferedReader(new FileReader(filepath1))) {
 
