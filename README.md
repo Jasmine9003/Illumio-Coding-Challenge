@@ -12,4 +12,7 @@ For this assignment, I decided to have an efficient run time.I did it by creatin
 I took the entire time given to me to find an efficient solution as submitted but if I had more time, I would have added validations to all the input fields. I would have declared enums for all defined protocols likd TCP, UDP.
 
 ### Teams
-I would like to join Policy team.
+I would like to join the teams in the following preference order:
+Policy team
+Data Team
+Platform team
